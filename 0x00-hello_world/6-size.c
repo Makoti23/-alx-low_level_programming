@@ -11,7 +11,7 @@ int main(void)
 	printf("Size of a long int: #d bytes(s)\n",sizeof(long int));
 	printf("Size of a long long int: #d byte(s)\n",sizeof(long long  int));
        	printf("with proper grammar, but the outcome is a piece of art,\n");
-        return(0);
+        return (0);
 }
 ~                                                                                                                                                                                          
 ~                                                                                                                                                                                          
